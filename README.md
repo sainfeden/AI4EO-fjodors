@@ -149,6 +149,10 @@ plt.show()
 ```
 
 
+![Gaussian Mixture Model](GMM.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- CONTACT -->
 ## Contact
 
