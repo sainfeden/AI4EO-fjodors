@@ -162,6 +162,11 @@ plt.show()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Physical Waveform Alignment
+
+To compare waveforms on a common footing we can **align** them using the known orbit geometry. This physically-based approach was developed at the [Alfred Wegener Institute (AWI)](https://gitlab.awi.de/siteo/aligned-waveform-generator).
+
+![Allignment](allign.png)
 <!-- CONTACT -->
 ## Contact
 
