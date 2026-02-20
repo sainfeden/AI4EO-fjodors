@@ -1,13 +1,18 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+<!-- Back to top link -->
+<a name="readme-top"></a>
 
+<br />
+<div align="center">
+  <a href="https://github.com/sainfeden/AI4EO-fjodors">
+    <img src="3dplot.png" alt="Logo" width="800" height="500">
+  </a>
+  
+  <h3 align="center">Clustered Data plot</h3>
+
+  <p align="justify">
+    This project covers some machine learning algorithms to discriminate sea ice and lead from satellite images. We will classify sea ice and lead based on Sentinel-3 altimetry data and compare the results with the ground truth (classification by ESA). There are lots of unsupervised classification methods out there, but in this project, we will cover K-means and Gaussian Mixture Models (GMM) clustering, each with its own pros and cons. 
+  </p>
+</div>
 
 
 <!-- PROJECT SHIELDS -->
@@ -25,30 +30,6 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/sainfeden/AI4EO-fjodors">
-    <img src="3dplot.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div>
 
 
 
