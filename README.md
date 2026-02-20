@@ -151,6 +151,15 @@ plt.show()
 
 ![Gaussian Mixture Model](GMM.png)
 
+### 3D Class Scatter Plot (at the top)
+```
+#3D plot
+fig = plt.figure(figsize=(12, 12))
+ax = fig.add_subplot(projection='3d')
+ax.scatter(data_cleaned[:,0], data_cleaned[:,1], data_cleaned[:,2],c=clusters_gmm)
+plt.show()
+```
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
